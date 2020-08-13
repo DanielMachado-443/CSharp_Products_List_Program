@@ -166,8 +166,7 @@ namespace Section10_Exercicio_Proposto
 
                     if (Answer2 == 'y' || Answer2 == 'Y')
                     {
-                        Console.WriteLine();
-                        Operations(thatPList);
+                        Console.WriteLine();                        
                     }
                     else
                     {
